@@ -431,6 +431,11 @@ En algunos procedimientos avanzados también se emplean bombas de infusión tipo
 
 Estas bombas permiten un control más preciso de la profundidad anestésica y mejor estabilidad hemodinámica del paciente durante la cirugía.
 
+## CONCLUSIONES
+
+El análisis técnico de la máquina de anestesia WATO EX-20 evidencia que la seguridad del paciente en el entorno quirúrgico es el resultado directo de la interacción precisa entre sus componentes mecánicos, neumáticos y electrónicos. Ningún elemento funciona de manera aislada: el vaporizador depende del flujo de gases, el sistema respiratorio depende del absorbente de CO₂, y el ventilador depende tanto del suministro eléctrico como de la integridad del circuito. Esta interdependencia exige que el ingeniero biomédico comprenda el equipo de forma integral y no parcial, ya que una falla menor en cualquier punto de la cadena puede comprometer la totalidad del soporte anestésico y poner en riesgo la vida del paciente.
+
+Desde la perspectiva del mantenimiento y la gestión tecnológica hospitalaria, queda claro que los equipos de anestesia requieren una cultura de verificación sistemática y preventiva que va mucho más allá de la simple operación diaria. La calibración del sensor de O₂, la prueba de fugas, el estado del absorbente de CO₂ y la integridad del suministro eléctrico no son tareas secundarias, sino condiciones mínimas de operación segura. Ignorar cualquiera de estos aspectos no solo representa un riesgo clínico, sino también una falla en la responsabilidad técnica y ética que define el ejercicio profesional de la ingeniería biomédica.
 
 REFERENCIAS
 
