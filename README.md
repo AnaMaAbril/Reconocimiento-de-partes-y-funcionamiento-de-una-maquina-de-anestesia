@@ -371,3 +371,82 @@ El tipo de bomba más utilizado en anestesia corresponde a la bomba de infusión
 En algunos procedimientos avanzados también se emplean bombas de infusión tipo TCI (Target Controlled Infusion), diseñadas para mantener concentraciones plasmáticas específicas de anestésicos intravenosos como propofol o remifentanilo mediante modelos farmacocinéticos computarizados.
 
 Estas bombas permiten un control más preciso de la profundidad anestésica y mejor estabilidad hemodinámica del paciente durante la cirugía.
+
+
+PREGUNTAS DE DISCUSIÓN
+
+• Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+- Anestésicos Intravenosos (para inducción y mantenimiento)
+  
+1. Propofol
+
+Es el agente hipnótico intravenoso más ampliamente utilizado por su rápida acción y recuperación. Su perfil de seguridad lo convierte en la opción preferida para la inducción y mantenimiento de la anestesia general. Se usa prácticamente en toda cirugía que requiera anestesia general. 
+
+2. Midazolam
+
+Es una benzodiazepina utilizada por sus propiedades sedantes y amnésicas. Es frecuentemente administrada como premedicación antes de la anestesia. Ayuda a reducir la ansiedad del paciente antes de entrar al quirófano. 
+
+3. Ketamina
+
+Es un anestésico disociativo que proporciona analgesia y sedación. Su uso se ha incrementado en situaciones de emergencia y en procedimientos menores. Tiene la ventaja de no deprimir la respiración significativamente. 
+
+4. Fentanilo
+
+Es un opioide potente que se utiliza tanto en la anestesia general como en la analgesia postoperatoria. Su efecto rápido y su potencia lo hacen valioso en situaciones de dolor agudo. 
+
+-  Anestésicos Inhalatorios (administrados mediante la máquina de anestesia)
+
+5. Sevoflurano
+
+Es un anestésico inhalatorio que se caracteriza por su rápida eliminación y baja irritación de las vías respiratorias. Es el más usado actualmente, especialmente en pediatría. 
+
+6. Isoflurano
+
+Es un anestésico inhalatorio que se ha utilizado durante décadas. Su eficacia en la inducción y mantenimiento de la anestesia lo hace indispensable en muchos procedimientos. 
+
+7. Óxido Nitroso (N₂O)
+
+Es un gas anestésico que se usa en combinación con vapores anestésicos para potenciar el efecto anestésico y reducir las dosis necesarias de otros agentes.
+
+- Relajantes Musculares (complemento de la anestesia general)
+
+8. Succinilcolina
+
+Es un agente bloqueador utilizado en la intubación de secuencia rápida para asegurar la vía respiratoria en pacientes con alto riesgo de broncoaspiración. Por su efecto de acción rápida, también es especialmente elegido en situaciones de vías aéreas difíciles. 
+
+9. Rocuronio
+
+Es un relajante muscular no despolarizante que se utiliza para facilitar la intubación y la ventilación controlada durante la anestesia general. 
+
+- Anestésicos Locales (para anestesia local y regional)
+
+10. Bupivacaína y Lidocaína
+
+La bupivacaína es ampliamente utilizada por su larga duración de acción, siendo ideal para bloqueos regionales y anestesia epidural. La lidocaína es un anestésico local de acción rápida que se usa comúnmente para procedimientos menores y como adyuvante en la anestesia general. 
+
+• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX20?
+
+Ambos equipos son de la marca Mindray, pero el EX-35 representa una generación más avanzada. Las diferencias principales son:
+
+
+
+REFERENCIAS
+
+- [1]Mindray Medical International Limited. (2009). Manual de usuario: Equipo de anestesia WATO EX-20. Shenzhen, China: Mindray. (Documento original: 00-0615-main.doc, versión PDF comprimida).
+
+- [2]UCLA Health – Anesthesiology. (s.f.). Types of Anesthesia. Recuperado de: https://www.uclahealth.org/medical-services/anesthesiology/types-anesthesia
+
+- [3]LaCardio. (2025, julio 24). Tipos de anestesia más comunes: ¿cuáles son? Recuperado de: https://www.lacardio.org/tipos-de-anestesia-mas-comunes-cuales-son/
+
+- [4]Wellness Kliniek Barcelona. (s.f.). Tipos de anestesia quirúrgica. Recuperado de: https://www.wellnesskliniek.es/es/informacion/informacion-al-paciente/tipos-de-anestesia
+
+- [5]MedlinePlus en español – Biblioteca Nacional de Medicina de EE.UU. (s.f.). Anestesia. Recuperado de: https://medlineplus.gov/spanish/anesthesia.html
+Cigna. (s.f.). Anestesia. Recuperado de: https://www.cigna.com/es-us/knowledge-center/hw/anestesia-stg124289
+
+- [6]MBA Blog. (2019, octubre 17). Tipos de anestesia: diferencia entre anestesia local y general. Recuperado de: https://www.mba.eu/blog/tipos-de-anestesia/
+
+- [7]Stanford Medicine Children's Health. (s.f.). Tipos de anestesia en niños. Recuperado de: https://www.stanfordchildrens.org/es/topic/default?id=types-of-anesthesia-for-children-90-P06106
+  
+- [8]Sedatium. (2024, febrero 19). Diferencias entre sedación, anestesia general y anestesia local. Recuperado de: https://sedatium.com/2024/02/19/diferencias-entre-sedacion-anestesia-general-y-anestesia-loc/
+
