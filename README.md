@@ -333,3 +333,41 @@ El sistema de presión negativa permite conducir los gases residuales hacia sist
 Este sistema constituye una medida fundamental de bioseguridad hospitalaria y protección ocupacional.
 
 Además de proteger al personal médico, también contribuye al adecuado funcionamiento del entorno quirúrgico debido a que evita acumulación de gases inflamables o anestésicos dentro de la sala.
+
+## PREGUNTAS PARA LA DISCUSIÓN
+
+## Pregunta 1. ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+Los anestésicos más utilizados actualmente en cirugía pueden clasificarse en anestésicos inhalados, anestésicos intravenosos, analgésicos opioides y relajantes neuromusculares. La selección depende del tipo de procedimiento quirúrgico, duración de la cirugía, estado clínico del paciente y profundidad anestésica requerida.
+
+Dentro de los anestésicos inhalados más utilizados se encuentran el sevoflurano, isoflurano y desflurano. Estos agentes son administrados mediante vaporizadores integrados en la máquina de anestesia y permiten mantener la anestesia general de manera controlada. El sevoflurano es uno de los más empleados debido a su rápida inducción y recuperación anestésica, además de presentar menor irritación respiratoria.
+
+Entre los anestésicos intravenosos destaca principalmente el propofol, ampliamente utilizado para inducción anestésica y sedación debido a su rápido inicio de acción y recuperación. También se emplean medicamentos como ketamina, etomidato y midazolam dependiendo de las condiciones clínicas del paciente.
+
+Los opioides como fentanilo, remifentanilo y morfina son utilizados para control del dolor intraoperatorio y disminución de la respuesta fisiológica al estímulo quirúrgico.
+
+Finalmente, los relajantes neuromusculares como rocuronio y vecuronio permiten facilitar la intubación endotraqueal y mejorar las condiciones quirúrgicas durante la anestesia general.
+
+---
+
+## Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+La máquina de anestesia WATO EX-35 corresponde a una versión más avanzada en comparación con la WATO EX-20, incorporando mejoras tecnológicas relacionadas con monitoreo, ventilación y sistemas de seguridad.
+
+Entre las principales diferencias se encuentra la incorporación de modos ventilatorios más avanzados, permitiendo mayor precisión en el soporte respiratorio del paciente. El modelo EX-35 posee mejores capacidades de monitoreo de parámetros fisiológicos y ventilatorios, incluyendo análisis respiratorio más detallado y sistemas de visualización más completos.
+
+Asimismo, el modelo EX-35 integra una interfaz gráfica más moderna, pantallas de mayor resolución y sistemas de navegación más intuitivos para el operador. También presenta mejoras en almacenamiento de datos, configuración de alarmas y automatización de procesos de verificación del sistema.
+
+Desde el punto de vista biomédico, el modelo EX-35 incorpora mayores capacidades de integración tecnológica y monitoreo continuo, permitiendo optimizar la seguridad del paciente durante procedimientos quirúrgicos complejos.
+
+---
+
+## Pregunta 3. ¿Qué tipo de bomba de infusión utiliza la máquina de anestesia?
+
+La máquina de anestesia utiliza principalmente sistemas de bombeo neumático y control electrónico de flujo para administrar gases medicinales y agentes anestésicos. Sin embargo, durante procedimientos anestésicos también pueden integrarse bombas de infusión externas destinadas a la administración intravenosa de medicamentos anestésicos, sedantes y analgésicos.
+
+El tipo de bomba más utilizado en anestesia corresponde a la bomba de infusión volumétrica, la cual permite administrar medicamentos intravenosos de manera continua y controlada mediante programación precisa de flujo, volumen y tiempo de infusión.
+
+En algunos procedimientos avanzados también se emplean bombas de infusión tipo TCI (Target Controlled Infusion), diseñadas para mantener concentraciones plasmáticas específicas de anestésicos intravenosos como propofol o remifentanilo mediante modelos farmacocinéticos computarizados.
+
+Estas bombas permiten un control más preciso de la profundidad anestésica y mejor estabilidad hemodinámica del paciente durante la cirugía.
