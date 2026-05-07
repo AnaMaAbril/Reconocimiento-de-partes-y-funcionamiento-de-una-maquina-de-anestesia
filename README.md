@@ -1,6 +1,6 @@
 # RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE LA MÁQUINA DE ANESTESIA WATO EX-20
 
-# 1. INTRODUCCIÓN
+## 1. INTRODUCCIÓN
 
 Las máquinas de anestesia representan uno de los sistemas biomédicos más importantes dentro del entorno quirúrgico moderno debido a que permiten mantener al paciente en un estado controlado de inconsciencia, analgesia y estabilidad fisiológica durante procedimientos invasivos. Estos equipos integran subsistemas neumáticos, electrónicos, mecánicos y computacionales encargados de suministrar gases medicinales y agentes anestésicos en concentraciones precisas, además de proporcionar soporte ventilatorio continuo.
 
@@ -12,7 +12,7 @@ La presente práctica tuvo como finalidad reconocer las principales partes de la
 
 ---
 
-# 2. OBJETIVOS
+## 2. OBJETIVOS
 
 ## 2.1 Objetivo General
 
