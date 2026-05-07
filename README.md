@@ -1,5 +1,127 @@
 # RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE LA MÁQUINA DE ANESTESIA WATO EX-20
 ## PARTE A
+
+1. A continuación, responda las siguientes preguntas tras haber realizado una
+revisión de la literatura relacionada. Se sugiere buscar en Internet el manual de
+operación o “service manual” de la máquina de anestesia WATO EX-20 y tener
+una copia impresa. En caso de utilizar modelos de IA generativa (e.g.,
+ChatGPT) debe verificar la información contra una fuente confiable (e.g., libros,
+manuales, informes técnicos).
+
+a. ¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican
+durante una cirugía? Explique cada uno.
+
+Existen cuatro categorías principales de anestesia utilizadas durante cirugías y procedimientos: anestesia general, anestesia regional, sedación (también llamada cuidado anestésico monitorizado) y anestesia local. 
+
+1. Anestesia General
+
+En una anestesia general se pierde totalmente la conciencia, lo que se conoce como hipnosis; es como estar en un coma inducido por fármacos. La hipnosis no implica por sí misma insensibilidad, por lo que el anestesiólogo administra adicionalmente un analgésico (normalmente un derivado mórfico) y, cuando la cirugía lo requiere, relajantes musculares para mantener la musculatura del paciente relajada o facilitar la intubación traqueal. Se administra por vía inhalatoria (usando agentes volátiles como isoflurano, sevoflurano o desflurano a través de la máquina de anestesia) o por vía intravenosa. Es la técnica empleada en cirugías complejas o invasivas como las cardíacas, neurológicas o trasplantes de órganos. 
+
+2. Anestesia Regional
+
+La anestesia regional adormece una parte más grande (pero todavía limitada) del cuerpo y no hace que la persona quede inconsciente. La anestesia raquídea y la epidural son ejemplos típicos de anestesia regional. La anestesia regional bloquea la transmisión de las señales de dolor en los nervios de la región seleccionada; un ejemplo común es la epidural, que se emplea durante el trabajo de parto o en cirugías que requieren que el paciente permanezca despierto pero sin dolor en la mitad inferior del cuerpo. 
+
+3. Anestesia Local
+
+La anestesia local adormece solamente una zona pequeña de tejido. Se administra mediante inyección directa en el sitio quirúrgico y el paciente permanece completamente consciente. Es ideal para procedimientos menores como suturas, extirpación de lesiones cutáneas o procedimientos dentales. 
+
+4. Sedación (Anestesia Monitorizada)
+
+Las técnicas de sedación consisten en la administración de fármacos al paciente para conseguir relajación, tranquilidad y desconexión con el entorno, siendo la vía más frecuente de administración la vía endovenosa. Los fármacos sedantes actúan sobre el Sistema Nervioso Central (SNC), alterando su función en menor o mayor grado. Dependiendo del procedimiento, el nivel de sedación puede variar desde mínimo (el paciente se sentirá somnoliento pero podrá hablar) hasta profundo (completamente dormido), con la diferencia respecto a la anestesia general de que la respiración puede ser lenta pero el paciente nunca depende de la respiración artificial. 
+
+b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
+cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante
+sistema de alta presión?
+
+Según el manual, el equipo trabaja con tres gases principales:
+
+1. Oxígeno (O₂)
+
+Es el gas fundamental de la máquina. Cumple múltiples funciones: mantiene la oxigenación del paciente durante la anestesia, es el gas portador de los agentes anestésicos volátiles en el vaporizador y actúa como gas de seguridad. El equipo incorpora un sistema de interrupción automática del suministro de N₂O en caso de presión baja de O₂, garantizando que la mezcla nunca baje del 25% de concentración de oxígeno. También existe un suministro de O₂ auxiliar (botón de flush) que permite suministrar flujos abundantes al sistema de respiración rápidamente.
+
+2. Óxido Nitroso (N₂O)
+
+Es un agente anestésico inhalatorio que se mezcla con el O₂ para potenciar la anestesia y reducir la dosis de agentes halogenados necesarios. El equipo tiene sus controles de flujo de O₂ y N₂O encadenados mecánicamente: al aumentar el N₂O, el sistema automáticamente incrementa el O₂ para mantener una concentración mínima segura de oxígeno (>25%) en la mezcla de gases frescos.
+
+3. Aire medicinal (AIRE)
+
+Se usa como gas portador alternativo al N₂O en pacientes donde este último esté contraindicado por ejemplo, en neurocirugía, laparoscopía prolongada o pacientes con déficit de vitamina B12. Permite una ventilación segura sin los efectos del óxido nitroso.
+
+¿Cuáles se incorporan mediante sistema de alta presión?
+Según el manual, el equipo dispone de conectores de suministro por tubos para los tres gases (O₂, N₂O y AIRE) provenientes de la red central hospitalaria, y adicionalmente de botellas de gas (cilindros) que se conectan directamente al equipo. Los indicadores de alta presión muestran la presión de las botellas antes de aliviar la presión (es decir, la presión del cilindro sin pasar por el regulador). Los indicadores de presión de los tubos muestran la presión después de aliviar la presión (regulada). Por tanto, las botellas/cilindros de O₂, N₂O y AIRE son los que se incorporan mediante el sistema de alta presión, ya que los cilindros almacenan el gas comprimido a presiones muy elevadas (hasta 200 bar en el caso del O₂), siendo el regulador el que los reduce a presión de trabajo. El suministro de tuberías hospitalarias llega ya a presión regulada (media/baja presión, en torno a 400-600 kPa).
+
+c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
+función? ¿Qué partes de este sistema podrían esterilizarse por medio de
+autoclave?
+
+¿Qué es y cuál es su función?
+
+El sistema de respiración es el circuito por el cual los gases anestésicos llegan al paciente y el gas exhalado es tratado para su recirculación o eliminación. Según el manual, es un sistema circular cerrado compuesto por las siguientes partes:
+
+- Conectores de inspiración y espiración
+  
+- Válvulas de retención inspiratoria y espiratoria (válvulas unidireccionales que garantizan el flujo en una sola dirección)
+  
+- Válvula APL (Airway Pressure Limit): ajusta el límite de presión durante ventilación manual
+
+- Recipiente de absorbente de CO₂: absorbe el dióxido de carbono exhalado por el paciente, permitiendo la recirculación segura del gas
+
+- Alojamiento del fuelle (en ventilación mecánica)
+
+- Bolsa manual (en ventilación manual)
+  
+- Brazo de la bolsa
+
+- Sensor de O₂
+
+- Sensor de flujo
+
+- Vaso colector de agua
+
+- Tubos de respiración y pieza en Y
+
+- Mascarilla respiratoria
+
+Su función principal es conducir la mezcla de gas fresco y agente anestésico hacia el paciente durante la inspiración, recibir el gas exhalado, eliminando el CO₂ mediante el absorbente, y recircular el gas limpio hacia una nueva inspiración, optimizando el uso de gases y agentes anestésicos.
+Piezas esterilizables en autoclave
+El manual es muy específico al respecto. Indica que solo las piezas marcadas con el símbolo de 134°C pueden esterilizarse en autoclave, y que el método C (esterilización con vapor en autoclave a máximo 134°C) aplica a las siguientes piezas:
+PiezaAutoclave (134°C)Tubos de respiración y pieza en Y✔Mascarilla respiratoria✔Ensamblado del fuelle✔Válvulas de retención inspiratoria y espiratoria✔Recipiente de absorbente de CO₂✔Ensamblado del bloque de conexión del recipiente✔Vaso colector de agua✔Brazo de la bolsa✔Sistema de respiración (cuerpo)✔Bolsa manual✔
+
+⚠️ El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
+
+
+d. Submenús del ventilador de la WATO EX-20
+Según el manual, el menú principal del ventilador se accede pulsando la tecla de menú y contiene cuatro submenús principales:
+1. [Modo vent >>] — Submenú de modo de ventilación
+Permite seleccionar el modo de ventilación mecánica que se desea utilizar. El equipo ofrece dos modos:
+
+VCV (Ventilación por Control de Volumen): modo totalmente mecánico en el que se suministra gas al paciente a flujo constante hasta alcanzar el volumen corriente (VC) preestablecido. La presión de las vías respiratorias varía según la distensibilidad pulmonar y la resistencia de las vías. Los parámetros ajustables son: VC, Frec, I:E, TIP:TI, Plimit y PEEP.
+Modo P (Ventilación por Control de Presión): modo totalmente mecánico en el que el sistema suministra gas con flujo constante hasta alcanzar el nivel de presión inspiratoria (Pinsp) preestablecido. El volumen corriente varía según la mecánica pulmonar del paciente. Los parámetros ajustables son: Pinsp, Frec, I:E, Plimit y PEEP.
+
+2. [Ajuste alarma >>] — Submenú de ajuste de alarmas
+Se usa para configurar los límites de alarma del ventilador anestésico y del módulo de gas. Desde aquí se accede al submenú [Ventilador >>] para ajustar individualmente los límites superior e inferior de parámetros como FiO₂, volumen corriente espirado (VCe), volumen minuto (VM), frecuencia respiratoria, presión de las vías respiratorias, etc. El sistema genera alarmas automáticamente cuando los valores medidos superan los límites configurados.
+3. [Ajst usrio >>] — Submenú de ajustes de usuario
+Permite personalizar diversas funciones del equipo, como: compensación de VC (volumen corriente), origen de supervisión de O₂ (sensor de O₂ interno o externo), ajustes del módulo de gas (CO₂: unidad, frecuencia de bombeo, compensaciones de gas, modo de funcionamiento), configuración de pantalla (brillo, contraste), ajustes de sonido y activación/desactivación de alarmas de VM y VCe.
+4. [Mantenim. >>] — Submenú de mantenimiento
+Se usa para operaciones de mantenimiento por parte del usuario, como: prueba de fugas del sistema de respiración, calibración del sensor de O₂, calibración del sensor de flujo, configuración del idioma, ajuste de la hora del sistema, selección de unidades de presión y restauración de los valores predeterminados de fábrica del ventilador.
+
+¿En cuál submenú se activa la pausa inspiratoria?
+La pausa inspiratoria (denominada TIP:TI en el equipo, es decir, porcentaje de tiempo de estabilidad inspiratoria en el tiempo de inspiración) no se activa desde un submenú del menú principal, sino desde el área de teclas de acceso rápido de ajuste de parámetros, directamente en la pantalla de ventilación mecánica. Específicamente:
+
+En el modo VCV, el parámetro [TIP:TI] es la tecla número 4 del área de acceso rápido. Su rango va de 5% a 60% (valor predeterminado: DES — desactivado). Al activarlo, se define el porcentaje del tiempo inspiratorio que se dedica a una meseta o pausa de presión, mejorando la distribución del gas pulmonar.
+En el modo P, la tecla [TIP:TI] aparece en pantalla pero está deshabilitada (el manual indica explícitamente que esta tecla de acceso rápido está deshabilitada en el modo P/VCP).
+
+Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV, desde las teclas de acceso rápido de la pantalla principal de ventilación, no desde un submenú del menú principal.
+
+b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
+cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante
+sistema de alta presión?
+c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
+función? ¿Qué partes de este sistema podrían esterilizarse por medio de
+autoclave?
+d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
+cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
+
 ## PARTE B
 
 ### 1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
