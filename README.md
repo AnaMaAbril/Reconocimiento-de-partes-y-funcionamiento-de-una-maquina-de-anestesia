@@ -188,7 +188,7 @@ Desde el área biomédica, este componente requiere revisión periódica debido 
 
 #### c. Recipiente absorbente de CO₂
 
-![Absorbedor de CO2](https://upload.wikimedia.org/wikipedia/commons/5/5e/Soda_lime_absorber.jpg)
+![Absorbedor de CO2](https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WATO-EX-20.webp?raw=true)
 
 El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
 
