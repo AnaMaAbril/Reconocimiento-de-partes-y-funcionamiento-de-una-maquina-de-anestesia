@@ -348,35 +348,6 @@ Los opioides como fentanilo, remifentanilo y morfina son utilizados para control
 
 Finalmente, los relajantes neuromusculares como rocuronio y vecuronio permiten facilitar la intubación endotraqueal y mejorar las condiciones quirúrgicas durante la anestesia general.
 
----
-
-## Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
-
-La máquina de anestesia WATO EX-35 corresponde a una versión más avanzada en comparación con la WATO EX-20, incorporando mejoras tecnológicas relacionadas con monitoreo, ventilación y sistemas de seguridad.
-
-Entre las principales diferencias se encuentra la incorporación de modos ventilatorios más avanzados, permitiendo mayor precisión en el soporte respiratorio del paciente. El modelo EX-35 posee mejores capacidades de monitoreo de parámetros fisiológicos y ventilatorios, incluyendo análisis respiratorio más detallado y sistemas de visualización más completos.
-
-Asimismo, el modelo EX-35 integra una interfaz gráfica más moderna, pantallas de mayor resolución y sistemas de navegación más intuitivos para el operador. También presenta mejoras en almacenamiento de datos, configuración de alarmas y automatización de procesos de verificación del sistema.
-
-Desde el punto de vista biomédico, el modelo EX-35 incorpora mayores capacidades de integración tecnológica y monitoreo continuo, permitiendo optimizar la seguridad del paciente durante procedimientos quirúrgicos complejos.
-
----
-
-## Pregunta 3. ¿Qué tipo de bomba de infusión utiliza la máquina de anestesia?
-
-La máquina de anestesia utiliza principalmente sistemas de bombeo neumático y control electrónico de flujo para administrar gases medicinales y agentes anestésicos. Sin embargo, durante procedimientos anestésicos también pueden integrarse bombas de infusión externas destinadas a la administración intravenosa de medicamentos anestésicos, sedantes y analgésicos.
-
-El tipo de bomba más utilizado en anestesia corresponde a la bomba de infusión volumétrica, la cual permite administrar medicamentos intravenosos de manera continua y controlada mediante programación precisa de flujo, volumen y tiempo de infusión.
-
-En algunos procedimientos avanzados también se emplean bombas de infusión tipo TCI (Target Controlled Infusion), diseñadas para mantener concentraciones plasmáticas específicas de anestésicos intravenosos como propofol o remifentanilo mediante modelos farmacocinéticos computarizados.
-
-Estas bombas permiten un control más preciso de la profundidad anestésica y mejor estabilidad hemodinámica del paciente durante la cirugía.
-
-
-PREGUNTAS DE DISCUSIÓN
-
-• Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
-
 - Anestésicos Intravenosos (para inducción y mantenimiento)
   
 1. Propofol
@@ -425,10 +396,40 @@ Es un relajante muscular no despolarizante que se utiliza para facilitar la intu
 
 La bupivacaína es ampliamente utilizada por su larga duración de acción, siendo ideal para bloqueos regionales y anestesia epidural. La lidocaína es un anestésico local de acción rápida que se usa comúnmente para procedimientos menores y como adyuvante en la anestesia general. 
 
-• Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX20?
+## Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+La máquina de anestesia WATO EX-35 corresponde a una versión más avanzada en comparación con la WATO EX-20, incorporando mejoras tecnológicas relacionadas con monitoreo, ventilación y sistemas de seguridad.
+
+Entre las principales diferencias se encuentra la incorporación de modos ventilatorios más avanzados, permitiendo mayor precisión en el soporte respiratorio del paciente. El modelo EX-35 posee mejores capacidades de monitoreo de parámetros fisiológicos y ventilatorios, incluyendo análisis respiratorio más detallado y sistemas de visualización más completos.
+
+Asimismo, el modelo EX-35 integra una interfaz gráfica más moderna, pantallas de mayor resolución y sistemas de navegación más intuitivos para el operador. También presenta mejoras en almacenamiento de datos, configuración de alarmas y automatización de procesos de verificación del sistema.
+
+Desde el punto de vista biomédico, el modelo EX-35 incorpora mayores capacidades de integración tecnológica y monitoreo continuo, permitiendo optimizar la seguridad del paciente durante procedimientos quirúrgicos complejos.
 
 Ambos equipos son de la marca Mindray, pero el EX-35 representa una generación más avanzada. Las diferencias principales son:
 
+<img width="663" height="192" alt="image" src="https://github.com/user-attachments/assets/755289c0-cca4-4d51-9ad0-d43ce0bb3ff8" />
+
+Modos de Ventilación 
+
+<img width="668" height="238" alt="image" src="https://github.com/user-attachments/assets/87bf770a-ce8c-488c-a580-d5d1d05bf4eb" />
+
+El EX-35 incorpora modos avanzados como SIMV (ventilación mandatoria intermitente sincronizada) y PSV (soporte de presión), que permiten una transición más gradual hacia la respiración espontánea del paciente, algo que el EX-20 no tiene.
+
+Comparación general:
+
+<img width="667" height="322" alt="image" src="https://github.com/user-attachments/assets/3e9c8683-487e-4ab6-b423-f45a5d8c72be" />
+
+
+## Pregunta 3. ¿Qué tipo de bomba de infusión utiliza la máquina de anestesia?
+
+La máquina de anestesia utiliza principalmente sistemas de bombeo neumático y control electrónico de flujo para administrar gases medicinales y agentes anestésicos. Sin embargo, durante procedimientos anestésicos también pueden integrarse bombas de infusión externas destinadas a la administración intravenosa de medicamentos anestésicos, sedantes y analgésicos.
+
+El tipo de bomba más utilizado en anestesia corresponde a la bomba de infusión volumétrica, la cual permite administrar medicamentos intravenosos de manera continua y controlada mediante programación precisa de flujo, volumen y tiempo de infusión.
+
+En algunos procedimientos avanzados también se emplean bombas de infusión tipo TCI (Target Controlled Infusion), diseñadas para mantener concentraciones plasmáticas específicas de anestésicos intravenosos como propofol o remifentanilo mediante modelos farmacocinéticos computarizados.
+
+Estas bombas permiten un control más preciso de la profundidad anestésica y mejor estabilidad hemodinámica del paciente durante la cirugía.
 
 
 REFERENCIAS
