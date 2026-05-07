@@ -210,7 +210,7 @@ Desde el punto de vista biomédico, resulta indispensable verificar periódicame
 
 #### d. Fuelle
 
-![Fuelle ventilatorio](https://upload.wikimedia.org/wikipedia/commons/4/4c/Anesthesia_bellows.jpg)
+![Fuelle ventilatorio](https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WATO-EX-20.webp?raw=true)
 
 El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
 
