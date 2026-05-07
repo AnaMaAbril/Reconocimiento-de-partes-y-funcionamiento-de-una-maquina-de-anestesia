@@ -24,7 +24,7 @@ Por esta razón, el vaporizador debe someterse periódicamente a procesos de man
 
 #### b. Válvula APL
 
-![Válvula APL](https://upload.wikimedia.org/wikipedia/commons/7/79/Anaesthesia_APL_valve.jpg)
+![Válvula APL](https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/pc36098878-plastic_anesthesia_machine_apl_valve_kit_original_new_mindray_wato_ex_20.avif)
 
 La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
 
