@@ -4,8 +4,6 @@
 
 ## 1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función
 
----
-
 # a. Vaporizador
 
 ## Ubicación
@@ -32,8 +30,6 @@ El vaporizador es uno de los componentes más críticos de la máquina de aneste
 - Alteraciones cardiovasculares.
 
 Por esta razón, los vaporizadores deben calibrarse periódicamente y mantenerse correctamente sellados para evitar fugas.
-
----
 
 # b. Válvula APL
 
@@ -63,8 +59,6 @@ La válvula APL protege al paciente contra lesiones pulmonares ocasionadas por e
 - Distensión gástrica.
 
 Su ajuste depende del tipo de paciente, la ventilación aplicada y el procedimiento quirúrgico.
-
----
 
 # c. Recipiente absorbente de CO₂
 
@@ -102,8 +96,6 @@ Si el absorbente se encuentra saturado, el paciente puede reinhalar CO₂, gener
 - Alteraciones ventilatorias.
 - Riesgo anestésico elevado.
 
----
-
 # d. Fuelle
 
 ## Ubicación
@@ -131,8 +123,6 @@ Alteraciones en el movimiento pueden indicar:
 - Falla neumática.
 - Problemas del ventilador.
 
----
-
 # 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
 
 El mensaje “batería en uso” indica que la máquina de anestesia dejó de recibir alimentación eléctrica desde la red principal y está funcionando mediante su batería interna.
@@ -156,8 +146,6 @@ Si la batería se descarga completamente:
 - Existe riesgo de falla ventilatoria crítica.
 
 Por esta razón, la energía eléctrica es considerada un sistema crítico dentro de la máquina de anestesia.
-
----
 
 # 3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO₂?
 
@@ -188,8 +176,6 @@ El mantenimiento oportuno del absorbente evita:
 - Hipercapnia.
 - Acidosis respiratoria.
 - Complicaciones anestésicas.
-
----
 
 # 4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
 
@@ -230,8 +216,6 @@ Una fuga de gas puede generar:
 - Riesgo anestésico.
 - Contaminación ambiental.
 
----
-
 # 5. ¿Influye el contar o no con el sensor de O₂ al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
 
 Sí, el sensor de oxígeno influye directamente en la seguridad y precisión del sistema de control de flujo.
@@ -263,8 +247,6 @@ Esto incrementa el riesgo de:
 
 ## Importancia clínica
 El sensor de O₂ es considerado un sistema esencial de seguridad porque permite monitoreo continuo de la oxigenación administrada durante la anestesia.
-
----
 
 # 6. ¿Para qué se requiere el sistema de presión negativa?
 
