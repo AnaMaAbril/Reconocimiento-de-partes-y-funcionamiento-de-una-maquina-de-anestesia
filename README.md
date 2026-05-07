@@ -83,44 +83,44 @@ El sistema de respiración es el circuito por el cual los gases anestésicos lle
 - Mascarilla respiratoria
 
 Su función principal es conducir la mezcla de gas fresco y agente anestésico hacia el paciente durante la inspiración, recibir el gas exhalado, eliminando el CO₂ mediante el absorbente, y recircular el gas limpio hacia una nueva inspiración, optimizando el uso de gases y agentes anestésicos.
-Piezas esterilizables en autoclave
-El manual es muy específico al respecto. Indica que solo las piezas marcadas con el símbolo de 134°C pueden esterilizarse en autoclave, y que el método C (esterilización con vapor en autoclave a máximo 134°C) aplica a las siguientes piezas:
-PiezaAutoclave (134°C)Tubos de respiración y pieza en Y✔Mascarilla respiratoria✔Ensamblado del fuelle✔Válvulas de retención inspiratoria y espiratoria✔Recipiente de absorbente de CO₂✔Ensamblado del bloque de conexión del recipiente✔Vaso colector de agua✔Brazo de la bolsa✔Sistema de respiración (cuerpo)✔Bolsa manual✔
 
-⚠️ El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
+<img width="745" height="303" alt="image" src="https://github.com/user-attachments/assets/18a06c3c-1ff1-4759-9f95-fd5b1dfb0c52" />
 
+El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
 
-d. Submenús del ventilador de la WATO EX-20
-Según el manual, el menú principal del ventilador se accede pulsando la tecla de menú y contiene cuatro submenús principales:
+d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
+cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
+
+El menú principal del ventilador se accede pulsando la tecla de menú y contiene cuatro submenús principales:
+
 1. [Modo vent >>] — Submenú de modo de ventilación
+
 Permite seleccionar el modo de ventilación mecánica que se desea utilizar. El equipo ofrece dos modos:
 
-VCV (Ventilación por Control de Volumen): modo totalmente mecánico en el que se suministra gas al paciente a flujo constante hasta alcanzar el volumen corriente (VC) preestablecido. La presión de las vías respiratorias varía según la distensibilidad pulmonar y la resistencia de las vías. Los parámetros ajustables son: VC, Frec, I:E, TIP:TI, Plimit y PEEP.
-Modo P (Ventilación por Control de Presión): modo totalmente mecánico en el que el sistema suministra gas con flujo constante hasta alcanzar el nivel de presión inspiratoria (Pinsp) preestablecido. El volumen corriente varía según la mecánica pulmonar del paciente. Los parámetros ajustables son: Pinsp, Frec, I:E, Plimit y PEEP.
+- VCV (Ventilación por Control de Volumen): modo totalmente mecánico en el que se suministra gas al paciente a flujo constante hasta alcanzar el volumen corriente (VC) preestablecido. La presión de las vías respiratorias varía según la distensibilidad pulmonar y la resistencia de las vías. Los parámetros ajustables son: VC, Frec, I:E, TIP:TI, Plimit y PEEP.
+
+- Modo P (Ventilación por Control de Presión): modo totalmente mecánico en el que el sistema suministra gas con flujo constante hasta alcanzar el nivel de presión inspiratoria (Pinsp) preestablecido. El volumen corriente varía según la mecánica pulmonar del paciente. Los parámetros ajustables son: Pinsp, Frec, I:E, Plimit y PEEP.
 
 2. [Ajuste alarma >>] — Submenú de ajuste de alarmas
+
 Se usa para configurar los límites de alarma del ventilador anestésico y del módulo de gas. Desde aquí se accede al submenú [Ventilador >>] para ajustar individualmente los límites superior e inferior de parámetros como FiO₂, volumen corriente espirado (VCe), volumen minuto (VM), frecuencia respiratoria, presión de las vías respiratorias, etc. El sistema genera alarmas automáticamente cuando los valores medidos superan los límites configurados.
+
 3. [Ajst usrio >>] — Submenú de ajustes de usuario
+   
 Permite personalizar diversas funciones del equipo, como: compensación de VC (volumen corriente), origen de supervisión de O₂ (sensor de O₂ interno o externo), ajustes del módulo de gas (CO₂: unidad, frecuencia de bombeo, compensaciones de gas, modo de funcionamiento), configuración de pantalla (brillo, contraste), ajustes de sonido y activación/desactivación de alarmas de VM y VCe.
+
 4. [Mantenim. >>] — Submenú de mantenimiento
+   
 Se usa para operaciones de mantenimiento por parte del usuario, como: prueba de fugas del sistema de respiración, calibración del sensor de O₂, calibración del sensor de flujo, configuración del idioma, ajuste de la hora del sistema, selección de unidades de presión y restauración de los valores predeterminados de fábrica del ventilador.
 
 ¿En cuál submenú se activa la pausa inspiratoria?
-La pausa inspiratoria (denominada TIP:TI en el equipo, es decir, porcentaje de tiempo de estabilidad inspiratoria en el tiempo de inspiración) no se activa desde un submenú del menú principal, sino desde el área de teclas de acceso rápido de ajuste de parámetros, directamente en la pantalla de ventilación mecánica. Específicamente:
+
+La pausa inspiratoria denominada TIP:TI en el equipo, es decir, porcentaje de tiempo de estabilidad inspiratoria en el tiempo de inspiración no se activa desde un submenú del menú principal, sino desde el área de teclas de acceso rápido de ajuste de parámetros, directamente en la pantalla de ventilación mecánica. Específicamente:
 
 En el modo VCV, el parámetro [TIP:TI] es la tecla número 4 del área de acceso rápido. Su rango va de 5% a 60% (valor predeterminado: DES — desactivado). Al activarlo, se define el porcentaje del tiempo inspiratorio que se dedica a una meseta o pausa de presión, mejorando la distribución del gas pulmonar.
 En el modo P, la tecla [TIP:TI] aparece en pantalla pero está deshabilitada (el manual indica explícitamente que esta tecla de acceso rápido está deshabilitada en el modo P/VCP).
 
 Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV, desde las teclas de acceso rápido de la pantalla principal de ventilación, no desde un submenú del menú principal.
-
-b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
-cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante
-sistema de alta presión?
-c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
-función? ¿Qué partes de este sistema podrían esterilizarse por medio de
-autoclave?
-d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
-cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 
 ## PARTE B
 
