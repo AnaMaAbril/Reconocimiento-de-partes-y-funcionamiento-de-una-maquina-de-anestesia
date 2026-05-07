@@ -1,4 +1,30 @@
 # RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE LA MÁQUINA DE ANESTESIA WATO EX-20
+
+# 1. INTRODUCCIÓN
+
+Las máquinas de anestesia representan uno de los sistemas biomédicos más importantes dentro del entorno quirúrgico moderno debido a que permiten mantener al paciente en un estado controlado de inconsciencia, analgesia y estabilidad fisiológica durante procedimientos invasivos. Estos equipos integran subsistemas neumáticos, electrónicos, mecánicos y computacionales encargados de suministrar gases medicinales y agentes anestésicos en concentraciones precisas, además de proporcionar soporte ventilatorio continuo.
+
+El correcto funcionamiento de una máquina de anestesia es fundamental para garantizar la seguridad del paciente, ya que cualquier alteración en el suministro de oxígeno, en la ventilación mecánica o en la dosificación anestésica puede generar complicaciones severas como hipoxia, hipercapnia, despertar intraoperatorio, depresión respiratoria o incluso paro cardiorrespiratorio.
+
+Las estaciones de anestesia modernas, como la WATO EX-20, incorporan sistemas avanzados de monitoreo, alarmas y protección que disminuyen considerablemente los riesgos asociados al procedimiento anestésico. Sin embargo, el adecuado desempeño del equipo depende tanto de su mantenimiento preventivo y correctivo como del conocimiento técnico del personal encargado de su operación.
+
+La presente práctica tuvo como finalidad reconocer las principales partes de la máquina de anestesia WATO EX-20, comprender el funcionamiento de sus subsistemas y analizar los procedimientos básicos de operación, seguridad y mantenimiento asociados al equipo.
+
+---
+
+# 2. OBJETIVOS
+
+## 2.1 Objetivo General
+
+Familiarizar al estudiante con los componentes, funcionamiento y labores de mantenimiento de una máquina de anestesia.
+
+## 2.2 Objetivos Específicos
+
+- Identificar las principales partes de la máquina de anestesia WATO EX-20.
+- Comprender el funcionamiento del sistema respiratorio y ventilatorio del equipo.
+- Reconocer los gases utilizados durante el procedimiento anestésico y su función clínica.
+- Analizar los sistemas de seguridad y monitoreo incorporados en la estación de anestesia.
+- Evaluar la importancia del mantenimiento preventivo en el correcto funcionamiento del equipo.
 ## PARTE A
 
 1. A continuación, responda las siguientes preguntas tras haber realizado una
