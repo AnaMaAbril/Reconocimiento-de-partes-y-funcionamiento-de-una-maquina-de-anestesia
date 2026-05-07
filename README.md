@@ -21,13 +21,26 @@ En una anestesia general se pierde totalmente la conciencia, lo que se conoce co
 
 La anestesia regional adormece una parte más grande (pero todavía limitada) del cuerpo y no hace que la persona quede inconsciente. La anestesia raquídea y la epidural son ejemplos típicos de anestesia regional. La anestesia regional bloquea la transmisión de las señales de dolor en los nervios de la región seleccionada; un ejemplo común es la epidural, que se emplea durante el trabajo de parto o en cirugías que requieren que el paciente permanezca despierto pero sin dolor en la mitad inferior del cuerpo. 
 
-3. Anestesia Local
+3. Anestesia Espinal (Raquídea)
 
-La anestesia local adormece solamente una zona pequeña de tejido. Se administra mediante inyección directa en el sitio quirúrgico y el paciente permanece completamente consciente. Es ideal para procedimientos menores como suturas, extirpación de lesiones cutáneas o procedimientos dentales. 
+Es un subtipo de anestesia regional. Se utiliza inyectando una dosis única del anestésico en el espacio subaracnoideo, que es el espacio que rodea la médula espinal. La inyección se realiza en la parte baja de la espalda, por debajo del final de la médula espinal, provocando entumecimiento en la parte inferior del cuerpo. El paciente permanece consciente pero sin sensación ni movimiento de la cintura hacia abajo. Se usa en cirugías de cadera, rodilla, cesáreas y cirugías abdominales bajas. Su efecto es rápido y de duración fija (1 a 4 horas). Stanford Medicine Children's Health
 
-4. Sedación (Anestesia Monitorizada)
+4. Anestesia Epidural
 
-Las técnicas de sedación consisten en la administración de fármacos al paciente para conseguir relajación, tranquilidad y desconexión con el entorno, siendo la vía más frecuente de administración la vía endovenosa. Los fármacos sedantes actúan sobre el Sistema Nervioso Central (SNC), alterando su función en menor o mayor grado. Dependiendo del procedimiento, el nivel de sedación puede variar desde mínimo (el paciente se sentirá somnoliento pero podrá hablar) hasta profundo (completamente dormido), con la diferencia respecto a la anestesia general de que la respiración puede ser lenta pero el paciente nunca depende de la respiración artificial. 
+La anestesia epidural es similar a la espinal, pero se administra en el espacio epidural en lugar del espacio subaracnoideo. Se emplea durante el trabajo de parto o en cirugías que requieren que el paciente permanezca despierto pero sin dolor en la mitad inferior del cuerpo. A diferencia de la espinal, permite colocar un catéter continuo, lo que la hace ajustable en duración e intensidad, siendo ideal para procedimientos prolongados o para el manejo del dolor postoperatorio. LaCardio
+
+5. Bloqueo de Nervio
+
+Es otro subtipo de anestesia regional. Se inyecta anestésico alrededor de un nervio o grupo de nervios específico que controla la sensación de una zona concreta del cuerpo. Es muy localizado y preciso. Puede usarse como técnica única o como complemento de la anestesia general para el control del dolor postoperatorio. Ejemplos comunes incluyen:
+
+- Bloqueo del plexo braquial → cirugías de brazo u hombro
+  
+- Bloqueo femoral → cirugías de rodilla
+
+- Bloqueo intercostal → dolor en la pared torácica
+
+<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/e2166d08-8790-4dbc-871a-23ed77d61210" />
+
 
 b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
 cumple cada uno? ¿Cuáles de ellos se incorporan a la máquina mediante
@@ -49,6 +62,9 @@ Se usa como gas portador alternativo al N₂O en pacientes donde este último es
 
 ¿Cuáles se incorporan mediante sistema de alta presión?
 Según el manual, el equipo dispone de conectores de suministro por tubos para los tres gases (O₂, N₂O y AIRE) provenientes de la red central hospitalaria, y adicionalmente de botellas de gas (cilindros) que se conectan directamente al equipo. Los indicadores de alta presión muestran la presión de las botellas antes de aliviar la presión (es decir, la presión del cilindro sin pasar por el regulador). Los indicadores de presión de los tubos muestran la presión después de aliviar la presión (regulada). Por tanto, las botellas/cilindros de O₂, N₂O y AIRE son los que se incorporan mediante el sistema de alta presión, ya que los cilindros almacenan el gas comprimido a presiones muy elevadas (hasta 200 bar en el caso del O₂), siendo el regulador el que los reduce a presión de trabajo. El suministro de tuberías hospitalarias llega ya a presión regulada (media/baja presión, en torno a 400-600 kPa).
+
+<img width="1300" height="866" alt="image" src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827" />
+
 
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
 función? ¿Qué partes de este sistema podrían esterilizarse por medio de
@@ -88,6 +104,9 @@ Su función principal es conducir la mezcla de gas fresco y agente anestésico h
 
 El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
 
+<img width="208" height="242" alt="image" src="https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb" />
+
+
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
 cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
 
@@ -121,6 +140,9 @@ En el modo VCV, el parámetro [TIP:TI] es la tecla número 4 del área de acceso
 En el modo P, la tecla [TIP:TI] aparece en pantalla pero está deshabilitada (el manual indica explícitamente que esta tecla de acceso rápido está deshabilitada en el modo P/VCP).
 
 Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV, desde las teclas de acceso rápido de la pantalla principal de ventilación, no desde un submenú del menú principal.
+
+<img width="1600" height="1589" alt="image" src="https://github.com/user-attachments/assets/995b14cb-29e6-46e0-a5b1-54f8e345337d" />
+
 
 ## PARTE B
 
