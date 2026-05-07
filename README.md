@@ -6,7 +6,7 @@
 
 #### a. Vaporizador
 
-![Vaporizador de máquina de anestesia](https://upload.wikimedia.org/wikipedia/commons/0/0b/Anesthesia_vaporizer.jpg)
+![Vaporizador de máquina de anestesia](https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/Sevoflurane-Vaporizer-for-Anesthesia-Machine-Medical-Device.avif)
 
 El vaporizador constituye uno de los componentes más importantes dentro de la máquina de anestesia debido a que es el encargado de transformar el anestésico líquido en vapor anestésico para posteriormente incorporarlo al flujo de gases frescos administrados al paciente.
 
