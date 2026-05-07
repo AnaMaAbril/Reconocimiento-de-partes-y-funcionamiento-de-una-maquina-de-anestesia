@@ -1,283 +1,165 @@
 # RECONOCIMIENTO DE PARTES Y FUNCIONAMIENTO DE LA MÁQUINA DE ANESTESIA WATO EX-20
-# PARTE A.
-# PARTE B. 
+## PARTE A
+## PARTE B
 
-## 1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función
+### 1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
 
-# a. Vaporizador
+#### a. Vaporizador
 
-## Ubicación
-El vaporizador se encuentra ubicado en la parte frontal superior de la máquina de anestesia, conectado al sistema de baja presión y cercano a los controles de flujo de gases.
+![Vaporizador de máquina de anestesia](https://upload.wikimedia.org/wikipedia/commons/0/0b/Anesthesia_vaporizer.jpg)
 
-## Función
-El vaporizador es el componente encargado de transformar el anestésico líquido en vapor anestésico para posteriormente mezclarlo con los gases frescos suministrados al paciente.
+El vaporizador constituye uno de los componentes más importantes dentro de la máquina de anestesia debido a que es el encargado de transformar el anestésico líquido en vapor anestésico para posteriormente incorporarlo al flujo de gases frescos administrados al paciente.
 
-Este dispositivo controla de manera precisa la concentración del anestésico inhalado, permitiendo seleccionar porcentajes específicos según el requerimiento clínico y el estado del paciente.
+Este componente se encuentra ubicado generalmente en la parte superior frontal de la estación de anestesia, conectado al sistema de baja presión y cercano a los controles de flujo de gases medicinales. Su diseño permite mantener una concentración estable y precisa del agente anestésico inhalado, independientemente de las variaciones de temperatura o flujo dentro del sistema.
 
-Los anestésicos volátiles más utilizados en este sistema son:
+El funcionamiento del vaporizador se basa en principios fisicoquímicos relacionados con la presión de vapor de los anestésicos volátiles. Cuando el flujo de gas atraviesa la cámara interna del vaporizador, una parte del gas entra en contacto con el anestésico líquido y se satura parcialmente con vapor anestésico. Posteriormente, este vapor se mezcla con el resto del flujo gaseoso para producir la concentración anestésica programada por el operador.
 
-- Sevoflurano.
-- Isoflurano.
-- Desflurano.
+Los anestésicos más utilizados en este sistema son sevoflurano, isoflurano y desflurano. Cada anestésico requiere un vaporizador específico debido a que poseen propiedades físicas diferentes.
 
-## Importancia clínica
-El vaporizador es uno de los componentes más críticos de la máquina de anestesia debido a que un error en la dosificación puede producir:
+Desde el punto de vista clínico, el vaporizador tiene gran importancia debido a que controla directamente la profundidad anestésica del paciente. Una concentración excesiva puede generar depresión cardiovascular, hipotensión severa o depresión respiratoria, mientras que una concentración insuficiente puede ocasionar despertar intraoperatorio y percepción del dolor durante la cirugía.
 
-- Sobredosis anestésica.
-- Depresión respiratoria.
-- Hipotensión.
-- Despertar intraoperatorio.
-- Alteraciones cardiovasculares.
-
-Por esta razón, los vaporizadores deben calibrarse periódicamente y mantenerse correctamente sellados para evitar fugas.
-
-# b. Válvula APL
-
-## Ubicación
-La válvula APL (Adjustable Pressure Limiting Valve) se encuentra integrada al sistema respiratorio de la máquina, generalmente cerca de la bolsa reservorio y del circuito manual de ventilación.
-
-## Función
-La válvula APL regula la presión máxima dentro del circuito respiratorio durante la ventilación manual o espontánea.
-
-Cuando la presión supera el valor ajustado, la válvula libera el exceso de gas hacia el sistema de evacuación, evitando sobrepresión en las vías respiratorias del paciente.
-
-## Funcionamiento
-- Si la válvula se encuentra más cerrada:
-  - La presión dentro del circuito aumenta.
-  - Se retiene mayor cantidad de gas.
-
-- Si la válvula se encuentra más abierta:
-  - El exceso de gas se libera rápidamente.
-  - Disminuye la presión del sistema.
-
-## Importancia clínica
-La válvula APL protege al paciente contra lesiones pulmonares ocasionadas por exceso de presión, como:
-
-- Barotrauma.
-- Sobredistensión alveolar.
-- Neumotórax.
-- Distensión gástrica.
-
-Su ajuste depende del tipo de paciente, la ventilación aplicada y el procedimiento quirúrgico.
-
-# c. Recipiente absorbente de CO₂
-
-## Ubicación
-El recipiente absorbente de CO₂ se encuentra ubicado en la parte frontal inferior del sistema respiratorio circular de la máquina de anestesia.
-
-## Función
-Su función principal es eliminar el dióxido de carbono exhalado por el paciente mediante un material absorbente conocido como cal sodada.
-
-Esto permite reutilizar parcialmente los gases anestésicos y disminuir el consumo de gases frescos.
-
-## Funcionamiento
-Cuando el paciente exhala:
-
-1. El gas espirado pasa hacia el recipiente absorbente.
-2. La cal sodada reacciona químicamente con el CO₂.
-3. El dióxido de carbono es eliminado.
-4. El gas restante puede reincorporarse al circuito respiratorio.
-
-## Signos de agotamiento
-El absorbente debe reemplazarse cuando presenta:
-
-- Cambio de color.
-- Endurecimiento.
-- Incremento del CO₂ inspirado.
-- Aumento de temperatura del recipiente.
-- Alteraciones en la capnografía.
-
-## Importancia clínica
-Si el absorbente se encuentra saturado, el paciente puede reinhalar CO₂, generando:
-
-- Hipercapnia.
-- Acidosis respiratoria.
-- Taquicardia.
-- Alteraciones ventilatorias.
-- Riesgo anestésico elevado.
-
-# d. Fuelle
-
-## Ubicación
-El fuelle se encuentra dentro del sistema ventilatorio de la máquina de anestesia.
-
-## Función
-El fuelle permite generar ventilación mecánica mediante movimientos de expansión y compresión.
-
-Durante la inspiración:
-- El fuelle se comprime.
-- Envía gases hacia los pulmones del paciente.
-
-Durante la espiración:
-- El fuelle vuelve a expandirse.
-- Recibe el gas exhalado.
-
-## Importancia clínica
-El movimiento del fuelle permite verificar visualmente si existe ventilación adecuada.
-
-Alteraciones en el movimiento pueden indicar:
-
-- Fugas en el circuito.
-- Desconexión del paciente.
-- Obstrucción respiratoria.
-- Falla neumática.
-- Problemas del ventilador.
-
-# 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
-
-El mensaje “batería en uso” indica que la máquina de anestesia dejó de recibir alimentación eléctrica desde la red principal y está funcionando mediante su batería interna.
-
-## Procedimiento recomendado
-
-1. Verificar inmediatamente la conexión eléctrica del equipo.
-2. Revisar el estado del cable de alimentación.
-3. Confirmar que el tomacorriente tenga energía.
-4. Revisar el interruptor principal del equipo.
-5. Informar al personal médico y biomédico.
-6. Preparar ventilación manual de respaldo en caso de descarga total.
-7. Restablecer el suministro eléctrico lo más rápido posible.
-
-## Riesgo clínico
-Si la batería se descarga completamente:
-
-- El ventilador puede detenerse.
-- Se interrumpe la administración controlada de gases.
-- El paciente puede presentar hipoxia.
-- Existe riesgo de falla ventilatoria crítica.
-
-Por esta razón, la energía eléctrica es considerada un sistema crítico dentro de la máquina de anestesia.
-
-# 3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO₂?
-
-El recipiente absorbente de CO₂ debe reemplazarse cuando el material absorbente se encuentra agotado o saturado.
-
-La frecuencia depende de factores como:
-
-- Tiempo de uso.
-- Flujo de gases frescos.
-- Producción de CO₂ del paciente.
-- Tipo de cirugía.
-- Estado del absorbente.
-
-## Indicadores de reemplazo
-
-El absorbente debe cambiarse cuando:
-
-- Cambia de color.
-- Aumenta el CO₂ inspirado.
-- Se endurece.
-- Se seca excesivamente.
-- Existe duda sobre su eficacia.
-
-## Importancia biomédica
-El mantenimiento oportuno del absorbente evita:
-
-- Reinhalación de CO₂.
-- Hipercapnia.
-- Acidosis respiratoria.
-- Complicaciones anestésicas.
-
-# 4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
-
-La prueba de fuga permite verificar la integridad del sistema de suministro de gases de alta presión.
-
-## Procedimiento
-
-1. Instalar correctamente el cilindro.
-2. Confirmar el ajuste de conexiones.
-3. Abrir lentamente la válvula del cilindro.
-4. Observar la presión indicada en el manómetro.
-5. Cerrar nuevamente la válvula.
-6. Esperar algunos segundos.
-7. Verificar si existe caída de presión.
-
-## Interpretación
-
-- Si la presión permanece estable:
-  - No existen fugas significativas.
-
-- Si la presión disminuye:
-  - Existe fuga en el sistema de alta presión.
-
-## Posibles causas
-
-- Sellos defectuosos.
-- Conexiones mal ajustadas.
-- Reguladores dañados.
-- Válvulas deterioradas.
-
-## Riesgos asociados
-
-Una fuga de gas puede generar:
-
-- Pérdida de oxígeno.
-- Disminución de presión del sistema.
-- Hipoxia.
-- Riesgo anestésico.
-- Contaminación ambiental.
-
-# 5. ¿Influye el contar o no con el sensor de O₂ al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
-
-Sí, el sensor de oxígeno influye directamente en la seguridad y precisión del sistema de control de flujo.
-
-## Función del sensor de O₂
-
-El sensor mide continuamente la concentración real de oxígeno entregada al paciente.
-
-## Con sensor de O₂
-
-Permite:
-
-- Verificar la FiO₂.
-- Detectar mezclas hipóxicas.
-- Activar alarmas.
-- Supervisar el correcto funcionamiento del sistema.
-- Aumentar la seguridad del paciente.
-
-## Sin sensor de O₂
-
-La máquina puede controlar el flujo mecánicamente, pero no puede confirmar la concentración real de oxígeno administrada.
-
-Esto incrementa el riesgo de:
-
-- Hipoxia.
-- Mezclas incorrectas.
-- Errores de suministro.
-- Fallas no detectadas.
-
-## Importancia clínica
-El sensor de O₂ es considerado un sistema esencial de seguridad porque permite monitoreo continuo de la oxigenación administrada durante la anestesia.
-
-# 6. ¿Para qué se requiere el sistema de presión negativa?
-
-El sistema de presión negativa se utiliza para evacuar los gases anestésicos residuales presentes en el circuito respiratorio.
-
-## Función principal
-
-Retirar del ambiente quirúrgico los gases sobrantes que no son utilizados por el paciente.
-
-## Funcionamiento
-
-1. Los gases sobrantes salen del circuito respiratorio.
-2. Son dirigidos hacia el sistema de evacuación.
-3. El sistema de presión negativa los extrae fuera del quirófano.
-
-## Importancia clínica
-
-Este sistema evita:
-
-- Contaminación ambiental.
-- Acumulación de anestésicos en sala.
-- Exposición prolongada del personal médico.
-- Riesgos ocupacionales.
-
-## Riesgos de falla
-
-Si el sistema falla pueden ocurrir:
-
-- Acumulación de gases anestésicos.
-- Exposición del personal quirúrgico.
-- Contaminación del área clínica.
-- Riesgos tóxicos a largo plazo.
+Por esta razón, el vaporizador debe someterse periódicamente a procesos de mantenimiento preventivo, verificación de fugas y calibración biomédica.
 
 ---
+
+#### b. Válvula APL
+
+![Válvula APL](https://upload.wikimedia.org/wikipedia/commons/7/79/Anaesthesia_APL_valve.jpg)
+
+La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
+
+Su función consiste en regular la presión máxima presente dentro del circuito respiratorio y evitar que el sistema alcance niveles peligrosos de presión que puedan generar lesiones pulmonares.
+
+La válvula APL se encuentra ubicada normalmente cerca de la bolsa reservorio y del circuito respiratorio principal. El operador puede ajustar manualmente el nivel de presión permitido dentro del sistema dependiendo de las condiciones clínicas del paciente.
+
+Cuando la presión generada durante la ventilación supera el valor establecido, la válvula permite la liberación del exceso de gas hacia el sistema de evacuación de gases anestésicos. De esta manera se evita la acumulación excesiva de presión dentro de la vía aérea.
+
+La importancia clínica de este componente es extremadamente alta, ya que una presión excesiva puede producir barotrauma pulmonar, ruptura alveolar o distensión gástrica. Por otro lado, una presión insuficiente puede generar ventilación inadecuada y disminución del intercambio gaseoso.
+
+Durante procedimientos quirúrgicos donde se requiere ventilación manual, el anestesiólogo ajusta constantemente la válvula APL según la respuesta ventilatoria observada en el paciente.
+
+Desde el área biomédica, este componente requiere revisión periódica debido a que una obstrucción, desgaste o fuga puede alterar significativamente el funcionamiento ventilatorio de la máquina.
+
+---
+
+#### c. Recipiente absorbente de CO₂
+
+![Absorbedor de CO2](https://upload.wikimedia.org/wikipedia/commons/5/5e/Soda_lime_absorber.jpg)
+
+El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
+
+Este sistema contiene en su interior sustancias químicas absorbentes, principalmente cal sodada, las cuales reaccionan químicamente con el dióxido de carbono presente en el gas exhalado.
+
+El recipiente absorbente se encuentra integrado dentro del circuito respiratorio circular de la máquina de anestesia. Su presencia permite reutilizar parcialmente los gases anestésicos y disminuir el consumo de gases frescos.
+
+Durante la respiración del paciente, el gas espirado contiene concentraciones elevadas de CO₂. Si este dióxido de carbono retornara directamente al paciente sin ser eliminado, se produciría reinhalación de CO₂, generando hipercapnia y alteraciones fisiológicas importantes.
+
+La reacción química entre el CO₂ y la cal sodada produce compuestos carbonatados, agua y calor. Debido a esto, el recipiente absorbente puede aumentar ligeramente su temperatura durante el funcionamiento.
+
+Uno de los principales indicadores de agotamiento del absorbente es el cambio de color del material interno, aunque también pueden observarse aumentos en el CO₂ inspirado mediante capnografía.
+
+Cuando el absorbente se encuentra saturado, pueden presentarse signos clínicos como aumento de la frecuencia respiratoria, incremento de la presión arterial, taquicardia y alteraciones ventilatorias.
+
+Desde el punto de vista biomédico, resulta indispensable verificar periódicamente el estado del absorbente debido a que su agotamiento constituye una falla crítica del sistema respiratorio.
+
+---
+
+#### d. Fuelle
+
+![Fuelle ventilatorio](https://upload.wikimedia.org/wikipedia/commons/4/4c/Anesthesia_bellows.jpg)
+
+El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
+
+Este componente se encuentra ubicado dentro del sistema ventilatorio del equipo y trabaja asociado a mecanismos neumáticos o electrónicos encargados de controlar el movimiento respiratorio artificial.
+
+Durante la fase inspiratoria, el fuelle se comprime y envía la mezcla gaseosa hacia los pulmones del paciente. Posteriormente, durante la espiración, vuelve a expandirse al recibir el gas exhalado.
+
+El movimiento continuo del fuelle permite verificar visualmente si el sistema ventilatorio está funcionando correctamente. Cuando existe una fuga significativa, desconexión del paciente o falla neumática, el comportamiento del fuelle se altera inmediatamente.
+
+Existen diferentes tipos de fuelles ventilatorios, entre ellos ascendentes y descendentes. Los fuelles ascendentes son considerados más seguros debido a que tienden a colapsar visiblemente ante desconexiones importantes del circuito.
+
+El fuelle trabaja conjuntamente con sensores de presión, sensores de flujo y sistemas electrónicos de monitoreo que permiten controlar parámetros ventilatorios como volumen corriente, presión inspiratoria y frecuencia respiratoria.
+
+Desde la ingeniería biomédica, el análisis del funcionamiento del fuelle resulta fundamental debido a que cualquier alteración en su movimiento puede indicar fallas en el ventilador mecánico, fugas en el circuito o problemas asociados al sistema neumático.
+
+---
+
+### 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
+
+Cuando la máquina de anestesia muestra el mensaje “batería en uso”, significa que el sistema dejó de recibir alimentación eléctrica desde la red principal y comenzó a funcionar mediante la batería interna de respaldo.
+
+Esta situación representa una condición de alerta debido a que la autonomía de la batería es limitada y una descarga completa podría ocasionar pérdida del soporte ventilatorio y suspensión parcial del funcionamiento de la estación de anestesia.
+
+Ante esta condición, la primera acción consiste en verificar inmediatamente si el cable de alimentación se encuentra correctamente conectado al tomacorriente hospitalario. Posteriormente debe confirmarse que exista suministro eléctrico en la sala quirúrgica y que no se haya activado ningún sistema de protección eléctrica.
+
+De manera simultánea, el personal clínico debe garantizar que el paciente continúe recibiendo ventilación adecuada. En caso de que exista riesgo de agotamiento de la batería, debe prepararse ventilación manual utilizando bolsa reservorio como método alternativo de soporte respiratorio.
+
+Asimismo, resulta indispensable notificar al personal biomédico o de mantenimiento hospitalario para realizar la revisión correspondiente del sistema eléctrico de la máquina.
+
+Desde el punto de vista clínico, una falla total de energía durante un procedimiento quirúrgico representa una condición crítica debido a que puede comprometer ventilación, suministro de gases, monitoreo fisiológico y administración anestésica.
+
+---
+
+### 3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO₂?
+
+El recipiente absorbente de CO₂ debe reemplazarse cuando el material absorbente interno presenta signos de agotamiento o saturación.
+
+La frecuencia de reemplazo depende de múltiples factores como duración del procedimiento anestésico, flujo de gases frescos, ventilación del paciente, tipo de absorbente utilizado y cantidad de CO₂ producido metabólicamente.
+
+En condiciones normales, la cal sodada cambia progresivamente de color a medida que pierde capacidad de absorción. Sin embargo, el cambio de color no siempre garantiza completamente el estado funcional del absorbente, debido a que algunos materiales pueden recuperar parcialmente su color original tras periodos de reposo.
+
+Por esta razón, además de la inspección visual, deben monitorearse parámetros clínicos como el aumento del CO₂ inspirado observado mediante capnografía.
+
+Cuando el absorbente se encuentra agotado, el paciente puede reinhalar dióxido de carbono, generando hipercapnia, aumento de frecuencia respiratoria, taquicardia, hipertensión y alteraciones ventilatorias.
+
+Desde el mantenimiento biomédico, se recomienda inspeccionar el estado del absorbente antes de cada procedimiento quirúrgico y reemplazarlo inmediatamente si presenta signos de saturación.
+
+---
+
+### 4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
+
+La prueba de fugas del sistema de alta presión permite identificar pérdidas de gases medicinales en cilindros, conexiones, válvulas o reguladores.
+
+Este procedimiento resulta fundamental debido a que las fugas de oxígeno o gases anestésicos pueden alterar el funcionamiento de la máquina y comprometer la seguridad del paciente.
+
+Inicialmente debe verificarse que el cilindro esté correctamente instalado y fijado a la máquina de anestesia. Posteriormente se abre lentamente la válvula principal del cilindro mientras se observa el manómetro de presión.
+
+Una vez estabilizada la presión, se procede a cerrar nuevamente la válvula del cilindro y se monitorea el comportamiento del manómetro durante algunos segundos.
+
+Si la presión permanece estable, el sistema no presenta fugas significativas. Sin embargo, si se observa disminución progresiva de presión, esto indica posible fuga dentro del sistema neumático.
+
+En algunos casos puede utilizarse solución jabonosa sobre conexiones externas para identificar visualmente la presencia de fugas mediante formación de burbujas.
+
+La detección temprana de fugas resulta fundamental debido a que pérdidas significativas pueden ocasionar disminución del suministro de oxígeno, errores en mezcla gaseosa y riesgo de hipoxia durante el procedimiento quirúrgico.
+
+---
+
+### 5. ¿Influye el contar o no con el sensor de O₂ al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
+
+Sí influye de manera significativa. El sensor de oxígeno constituye uno de los elementos de seguridad más importantes dentro de la máquina de anestesia debido a que permite medir continuamente la concentración real de oxígeno administrada al paciente.
+
+El sistema de control de flujo regula mecánicamente el paso de gases medicinales dentro de la máquina. Sin embargo, aunque el flujo se encuentre correctamente configurado, podrían presentarse errores relacionados con mezclas gaseosas inadecuadas, fallas en suministro de oxígeno o alteraciones en sensores de presión.
+
+La presencia del sensor de O₂ permite verificar que la concentración final administrada al paciente sea segura y adecuada para mantener correcta oxigenación tisular.
+
+En caso de presentarse disminuciones peligrosas de concentración de oxígeno, el sistema puede activar alarmas automáticas que alertan al personal clínico.
+
+Sin el sensor de O₂, la máquina pierde capacidad de verificar directamente la FiO₂ administrada, aumentando considerablemente el riesgo de mezclas hipóxicas.
+
+Desde el punto de vista biomédico, este sensor requiere procesos periódicos de calibración debido a que desviaciones en su medición pueden generar errores clínicos importantes.
+
+---
+
+### 6. ¿Para qué se requiere el sistema de presión negativa?
+
+El sistema de presión negativa o sistema de evacuación de gases anestésicos se utiliza para retirar del ambiente quirúrgico los gases residuales provenientes de la máquina de anestesia.
+
+Durante el procedimiento anestésico, no todos los gases administrados son utilizados completamente por el paciente. Parte de estos gases son eliminados hacia el ambiente durante la espiración o mediante la válvula APL.
+
+Si dichos gases permanecieran acumulados dentro del quirófano, podrían generar exposición ocupacional prolongada al personal médico y afectar las condiciones ambientales de la sala.
+
+El sistema de presión negativa permite conducir los gases residuales hacia sistemas de evacuación hospitalarios especializados, disminuyendo significativamente la contaminación ambiental.
+
+Este sistema constituye una medida fundamental de bioseguridad hospitalaria y protección ocupacional.
+
+Además de proteger al personal médico, también contribuye al adecuado funcionamiento del entorno quirúrgico debido a que evita acumulación de gases inflamables o anestésicos dentro de la sala.
