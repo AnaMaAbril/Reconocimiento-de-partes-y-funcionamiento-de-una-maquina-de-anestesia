@@ -65,7 +65,7 @@ Es otro subtipo de anestesia regional. Se inyecta anestésico alrededor de un ne
 
 - Bloqueo intercostal → dolor en la pared torácica
 
-<img width="480" height="650" alt="image" src="https://github.com/user-attachments/assets/e2166d08-8790-4dbc-871a-23ed77d61210" />
+<img width="480" height="550" alt="image" src="https://github.com/user-attachments/assets/e2166d08-8790-4dbc-871a-23ed77d61210" />
 
 
 b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
