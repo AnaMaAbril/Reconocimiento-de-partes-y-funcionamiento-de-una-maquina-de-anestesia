@@ -130,7 +130,7 @@ Su función principal es conducir la mezcla de gas fresco y agente anestésico h
 
 El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
 
-<img width="208" height="242" alt="image" src="https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb" />
+<img width="408" height="442" alt="image" src="https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb" />
 
 
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
