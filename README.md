@@ -238,7 +238,7 @@ Desde el punto de vista biomédico, resulta indispensable verificar periódicame
 
 <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WhatsApp%20Image%202026-05-06%20at%2010.55.28%20PM.jpeg?raw=true" 
      alt="Fuelle ventilatorio" 
-     width="100">
+     width="300">
 
 El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
 
