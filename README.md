@@ -167,7 +167,7 @@ En el modo P, la tecla [TIP:TI] aparece en pantalla pero está deshabilitada (el
 
 Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV, desde las teclas de acceso rápido de la pantalla principal de ventilación, no desde un submenú del menú principal.
 
-<img width="1600" height="1589" alt="image" src="https://github.com/user-attachments/assets/995b14cb-29e6-46e0-a5b1-54f8e345337d" />
+<img width="600" height="589" alt="image" src="https://github.com/user-attachments/assets/995b14cb-29e6-46e0-a5b1-54f8e345337d" />
 
 
 ## PARTE B
