@@ -167,7 +167,13 @@ En el modo P, la tecla [TIP:TI] aparece en pantalla pero está deshabilitada (el
 
 Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV, desde las teclas de acceso rápido de la pantalla principal de ventilación, no desde un submenú del menú principal.
 
-<img width="500" height="489" alt="image" src="https://github.com/user-attachments/assets/995b14cb-29e6-46e0-a5b1-54f8e345337d" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/995b14cb-29e6-46e0-a5b1-54f8e345337d" 
+       alt="Sistema de ventilación de la máquina de anestesia" 
+       width="500">
+
+  <p><b>Imagen 5.</b> Sistema de ventilación de la máquina de anestesia.</p>
+</div>
 
 
 ## PARTE B
@@ -176,7 +182,13 @@ Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV
 
 #### a. Vaporizador
 
-![Vaporizador de máquina de anestesia](https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/Sevoflurane-Vaporizer-for-Anesthesia-Machine-Medical-Device.avif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/Sevoflurane-Vaporizer-for-Anesthesia-Machine-Medical-Device.avif" 
+       alt="Vaporizador de máquina de anestesia" 
+       width="500">
+
+  <p><b>Imagen 4.</b> Vaporizador de la máquina de anestesia.</p>
+</div>
 
 El vaporizador constituye uno de los componentes más importantes dentro de la máquina de anestesia debido a que es el encargado de transformar el anestésico líquido en vapor anestésico para posteriormente incorporarlo al flujo de gases frescos administrados al paciente.
 
@@ -194,9 +206,13 @@ Por esta razón, el vaporizador debe someterse periódicamente a procesos de man
 
 #### b. Válvula APL
 
-<img src="https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/pc36098878-plastic_anesthesia_machine_apl_valve_kit_original_new_mindray_wato_ex_20.avif" 
-     alt="Válvula APL" 
-     width="500">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/pc36098878-plastic_anesthesia_machine_apl_valve_kit_original_new_mindray_wato_ex_20.avif" 
+       alt="Válvula APL" 
+       width="500">
+
+  <p><b>Imagen 3.</b> Válvula APL de la máquina de anestesia.</p>
+</div>
 
 La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
 
@@ -216,9 +232,13 @@ Desde el área biomédica, este componente requiere revisión periódica debido 
 
 #### c. Recipiente absorbente de CO₂
 
-<img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WATO-EX-20.webp?raw=true" 
-     alt="Absorbedor de CO2" 
-     width="500">
+<div align="center">
+  <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WATO-EX-20.webp?raw=true" 
+       alt="Absorbedor de CO2" 
+       width="500">
+
+  <p><b>Imagen 2.</b> Absorbedor de CO₂ de la máquina de anestesia.</p>
+</div>
 
 El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
 
