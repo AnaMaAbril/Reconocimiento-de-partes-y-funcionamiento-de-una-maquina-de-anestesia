@@ -89,7 +89,7 @@ Se usa como gas portador alternativo al N₂O en pacientes donde este último es
 ¿Cuáles se incorporan mediante sistema de alta presión?
 Según el manual, el equipo dispone de conectores de suministro por tubos para los tres gases (O₂, N₂O y AIRE) provenientes de la red central hospitalaria, y adicionalmente de botellas de gas (cilindros) que se conectan directamente al equipo. Los indicadores de alta presión muestran la presión de las botellas antes de aliviar la presión (es decir, la presión del cilindro sin pasar por el regulador). Los indicadores de presión de los tubos muestran la presión después de aliviar la presión (regulada). Por tanto, las botellas/cilindros de O₂, N₂O y AIRE son los que se incorporan mediante el sistema de alta presión, ya que los cilindros almacenan el gas comprimido a presiones muy elevadas (hasta 200 bar en el caso del O₂), siendo el regulador el que los reduce a presión de trabajo. El suministro de tuberías hospitalarias llega ya a presión regulada (media/baja presión, en torno a 400-600 kPa).
 
-<img width="1300" height="866" alt="image" src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827" />
+<img width="800" height="366" alt="image" src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827" />
 
 
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
