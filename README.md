@@ -65,7 +65,13 @@ Es otro subtipo de anestesia regional. Se inyecta anestésico alrededor de un ne
 
 - Bloqueo intercostal → dolor en la pared torácica
 
-<img width="480" height="550" alt="image" src="https://github.com/user-attachments/assets/e2166d08-8790-4dbc-871a-23ed77d61210" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e2166d08-8790-4dbc-871a-23ed77d61210" 
+       alt="Flujómetros de la máquina de anestesia" 
+       width="480">
+
+  <p><b>Imagen 1.</b> Tipos de anestesia.</p>
+</div>
 
 
 b. ¿Con cuáles gases trabaja una máquina de anestesia y qué función
@@ -89,8 +95,13 @@ Se usa como gas portador alternativo al N₂O en pacientes donde este último es
 ¿Cuáles se incorporan mediante sistema de alta presión?
 Según el manual, el equipo dispone de conectores de suministro por tubos para los tres gases (O₂, N₂O y AIRE) provenientes de la red central hospitalaria, y adicionalmente de botellas de gas (cilindros) que se conectan directamente al equipo. Los indicadores de alta presión muestran la presión de las botellas antes de aliviar la presión (es decir, la presión del cilindro sin pasar por el regulador). Los indicadores de presión de los tubos muestran la presión después de aliviar la presión (regulada). Por tanto, las botellas/cilindros de O₂, N₂O y AIRE son los que se incorporan mediante el sistema de alta presión, ya que los cilindros almacenan el gas comprimido a presiones muy elevadas (hasta 200 bar en el caso del O₂), siendo el regulador el que los reduce a presión de trabajo. El suministro de tuberías hospitalarias llega ya a presión regulada (media/baja presión, en torno a 400-600 kPa).
 
-<img width="800" height="366" alt="image" src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827" 
+       alt="Flujómetros de la máquina de anestesia" 
+       width="480">
 
+  <p><b>Imagen 2.</b> Tipos de gases de la maquina de anestesia.</p>
+</div>
 
 c. ¿Qué es el sistema de respiración en la máquina de anestesia y cuál es su
 función? ¿Qué partes de este sistema podrían esterilizarse por medio de
@@ -187,7 +198,7 @@ Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV
        alt="Vaporizador de máquina de anestesia" 
        width="500">
 
-  <p><b>Imagen 4.</b> Vaporizador de la máquina de anestesia.</p>
+  <p><b>Imagen 6.</b> Vaporizador de la máquina de anestesia.</p>
 </div>
 
 El vaporizador constituye uno de los componentes más importantes dentro de la máquina de anestesia debido a que es el encargado de transformar el anestésico líquido en vapor anestésico para posteriormente incorporarlo al flujo de gases frescos administrados al paciente.
@@ -211,7 +222,7 @@ Por esta razón, el vaporizador debe someterse periódicamente a procesos de man
        alt="Válvula APL" 
        width="500">
 
-  <p><b>Imagen 3.</b> Válvula APL de la máquina de anestesia.</p>
+  <p><b>Imagen 7.</b> Válvula APL de la máquina de anestesia.</p>
 </div>
 
 La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
@@ -237,7 +248,7 @@ Desde el área biomédica, este componente requiere revisión periódica debido 
        alt="Absorbedor de CO2" 
        width="500">
 
-  <p><b>Imagen 2.</b> Absorbedor de CO₂ de la máquina de anestesia.</p>
+  <p><b>Imagen 8.</b> Absorbedor de CO₂ de la máquina de anestesia.</p>
 </div>
 
 El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
@@ -264,7 +275,7 @@ Desde el punto de vista biomédico, resulta indispensable verificar periódicame
   <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WhatsApp%20Image%202026-05-06%20at%2010.55.28%20PM.jpeg?raw=true" 
        width="500">
 
-  <p><b>Imagen 1.</b> Fuelle ventilatorio de la máquina de anestesia.</p>
+  <p><b>Imagen 9.</b> Fuelle ventilatorio de la máquina de anestesia.</p>
 </div>
 
 El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
