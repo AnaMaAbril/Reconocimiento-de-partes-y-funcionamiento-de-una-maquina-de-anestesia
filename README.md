@@ -196,7 +196,7 @@ Por esta razón, el vaporizador debe someterse periódicamente a procesos de man
 
 <img src="https://raw.githubusercontent.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/refs/heads/main/pc36098878-plastic_anesthesia_machine_apl_valve_kit_original_new_mindray_wato_ex_20.avif" 
      alt="Válvula APL" 
-     width="400">
+     width="500">
 
 La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
 
@@ -218,7 +218,7 @@ Desde el área biomédica, este componente requiere revisión periódica debido 
 
 <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WATO-EX-20.webp?raw=true" 
      alt="Absorbedor de CO2" 
-     width="300">
+     width="500">
 
 El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
 
@@ -242,7 +242,7 @@ Desde el punto de vista biomédico, resulta indispensable verificar periódicame
 
 <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WhatsApp%20Image%202026-05-06%20at%2010.55.28%20PM.jpeg?raw=true" 
      alt="Fuelle ventilatorio" 
-     width="300">
+     width="500">
 
 El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
 
