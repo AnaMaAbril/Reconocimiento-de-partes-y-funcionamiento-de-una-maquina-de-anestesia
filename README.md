@@ -141,8 +141,15 @@ Su función principal es conducir la mezcla de gas fresco y agente anestésico h
 
 El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
 
-<img width="408" height="442" alt="image" src="https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb" />
+<img width="408" height="442" alt="image" src="" />
 
+<div align="center">
+  <img src="[https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827](https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb)" 
+       alt="Flujómetros de la máquina de anestesia" 
+       width="480">
+
+  <p><b>Imagen 3.</b> Flujo de gases.</p>
+</div>
 
 d. ¿Cuántos y cuáles son los submenús del ventilador? ¿En qué consiste
 cada uno? ¿En cuál de ellos se puede activar la pausa inspiratoria?
@@ -183,7 +190,7 @@ Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV
        alt="Sistema de ventilación de la máquina de anestesia" 
        width="500">
 
-  <p><b>Imagen 5.</b> Sistema de ventilación de la máquina de anestesia.</p>
+  <p><b>Imagen 4.</b> Sistema de ventilación de la máquina de anestesia.</p>
 </div>
 
 
@@ -198,7 +205,7 @@ Por lo tanto, la pausa inspiratoria (TIP:TI) solo puede activarse en el modo VCV
        alt="Vaporizador de máquina de anestesia" 
        width="500">
 
-  <p><b>Imagen 6.</b> Vaporizador de la máquina de anestesia.</p>
+  <p><b>Imagen 5.</b> Vaporizador de la máquina de anestesia.</p>
 </div>
 
 El vaporizador constituye uno de los componentes más importantes dentro de la máquina de anestesia debido a que es el encargado de transformar el anestésico líquido en vapor anestésico para posteriormente incorporarlo al flujo de gases frescos administrados al paciente.
@@ -222,7 +229,7 @@ Por esta razón, el vaporizador debe someterse periódicamente a procesos de man
        alt="Válvula APL" 
        width="500">
 
-  <p><b>Imagen 7.</b> Válvula APL de la máquina de anestesia.</p>
+  <p><b>Imagen 6.</b> Válvula APL de la máquina de anestesia.</p>
 </div>
 
 La válvula APL, conocida como Adjustable Pressure Limiting Valve o válvula limitadora ajustable de presión, es un componente fundamental del circuito respiratorio utilizado principalmente durante ventilación manual o espontánea.
@@ -248,7 +255,7 @@ Desde el área biomédica, este componente requiere revisión periódica debido 
        alt="Absorbedor de CO2" 
        width="500">
 
-  <p><b>Imagen 8.</b> Absorbedor de CO₂ de la máquina de anestesia.</p>
+  <p><b>Imagen 7.</b> Absorbedor de CO₂ de la máquina de anestesia.</p>
 </div>
 
 El recipiente absorbente de dióxido de carbono corresponde al componente encargado de eliminar el CO₂ espirado por el paciente durante el procedimiento anestésico.
@@ -275,7 +282,7 @@ Desde el punto de vista biomédico, resulta indispensable verificar periódicame
   <img src="https://github.com/AnaMaAbril/Reconocimiento-de-partes-y-funcionamiento-de-una-maquina-de-anestesia/blob/main/WhatsApp%20Image%202026-05-06%20at%2010.55.28%20PM.jpeg?raw=true" 
        width="500">
 
-  <p><b>Imagen 9.</b> Fuelle ventilatorio de la máquina de anestesia.</p>
+  <p><b>Imagen 8.</b> Fuelle ventilatorio de la máquina de anestesia.</p>
 </div>
 
 El fuelle ventilatorio es la estructura encargada de generar ventilación mecánica mediante ciclos de compresión y expansión dentro de la máquina de anestesia.
