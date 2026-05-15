@@ -142,7 +142,7 @@ Su función principal es conducir la mezcla de gas fresco y agente anestésico h
 El manual advierte expresamente que NO deben esterilizarse en autoclave: el sensor de flujo (es de plástico), el sensor de O₂ y el sistema AGSS.
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827](https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb)" 
+  <img src="https://github.com/user-attachments/assets/b7ba8181-f024-4a0a-b970-41607a504827](https://github.com/user-attachments/assets/8d60f4f1-724e-43ec-bbd8-c651b10ab3eb" 
        alt="Flujómetros de la máquina de anestesia" 
        width="480">
 
